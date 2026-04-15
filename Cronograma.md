@@ -6,7 +6,7 @@
 | 4 | 8/abr | Teoria de Conjuntos e suas Operações, Cardinalidade de Conjuntos e Teorema da Casa dos Pombos |
 | 5 | 13/abr | Sequências, Progressões e Relações de Recorrência |
 | 6 | 15/abr | Recorrência Linear Homogênea e Não Homogênea |
-| 7 | 20/abr | Ponto facultativo (Tiradentes) |
-| 8 | 22/abr | Simulado 1 |
-| 9 | 27/abr | Correção do Simulado 1 |
-| 10 | 29/abr | Prova 1 |
+|  | 20/abr | Ponto facultativo (Tiradentes) |
+| 7 | 22/abr | Simulado 1 |
+| 8 | 27/abr | Correção do Simulado 1 |
+| 9 | 29/abr | Prova 1 |
