@@ -10,3 +10,23 @@
 | 7 | 22/abr | Simulado 1 |
 | 8 | 27/abr | Correção do Simulado 1 |
 | 9 | 29/abr | Prova 1 |
+| 10 | 4/mai | Não houve aula |
+| 11 | 6/mai | Correção da Prova 1 |
+| 12 | 11/mai | Princípios Aditivo e Multiplicativo, Arranjos, Permutações e Combinações |
+| 13 | 13/mai | Permutações com Repetições e Circulares; Resolução de Exercícios |
+| 14 | 18/mai | Equações Lineares e Funções Geradoras |
+| 15 | 20/mai | Simulado 2 |
+| 16 | 25/mai | Correção do Simulado 2 |
+| 17 | 27/mai | Prova 2 |
+| 18 | 1/jun | Correção da Prova 2 |
+| 19 | 3/jun | Proposições e Conectivos; Operações Lógicas sobre Proposições |
+| 20 | 8/jun | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
+| 21 | 10/jun | Implicação Lógica - Equivalência Lógica - Demonstrações |
+| 22 | 15/jun | Álgebra das Proposições |
+| 23 | 17/jun | Argumentos e Regras de Inferência; Método Dedutivo |
+| 24 | 22/jun | Demonstração Condicional e por Redução ao Absurdo |
+| 25 | 24/jun | Simulado 3 |
+| 26 | 29/jun | Correção do Simulado 3 |
+| 27 | 1/jul | Prova 3 |
+| 28 | 6/jul | Prova Substitutiva |
+| 29 | 8/jul | Último dia de aulas |
