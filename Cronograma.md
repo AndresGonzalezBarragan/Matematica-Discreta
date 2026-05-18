@@ -14,7 +14,7 @@
 | 11 | 6/mai | Correção da Prova 1 |
 | 12 | 11/mai | Princípios Aditivo e Multiplicativo, Arranjos, Permutações e Combinações |
 | 13 | 13/mai | Princípios de Subtração e Divisão, Permutações com Repetição e Circular, Contado com Pelo Menos e No máximo |
-| 14 | 18/mai | Equações Lineares e Funções Geradoras |
+| 14 | 18/mai | Equações Lineares, Combinação com Repetição e Funções Geradoras |
 | 15 | 20/mai | Simulado 2 |
 | 16 | 25/mai | Correção do Simulado 2 |
 | 17 | 27/mai | Prova 2 |
