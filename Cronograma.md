@@ -21,7 +21,7 @@
 | 18 | 1/jun | Correção da Prova 2 |
 | 19 | 3/jun | Proposições e Conectivos; Operações Lógicas sobre Proposições |
 | 20 | 8/jun | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
-| 21 | 10/jun | Implicação Lógica - Equivalência Lógica - Demonstrações |
+| 21 | 10/jun | Implicação Lógica e Equivalência Lógica |
 | 22 | 15/jun | Álgebra das Proposições |
 | 23 | 17/jun | Argumentos e Regras de Inferência; Método Dedutivo |
 | 24 | 22/jun | Demonstração Condicional e por Redução ao Absurdo |
