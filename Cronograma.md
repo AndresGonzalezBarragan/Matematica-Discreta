@@ -22,11 +22,12 @@
 | 19 | 3/jun | Proposições e Conectivos; Operações Lógicas sobre Proposições |
 | 20 | 8/jun | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
 | 21 | 10/jun | Implicação Lógica e Equivalência Lógica |
-| 22 | 15/jun | Álgebra das Proposições |
-| 23 | 17/jun | Argumentos e Regras de Inferência; Método Dedutivo |
-| 24 | 22/jun | Demonstração Condicional e por Redução ao Absurdo |
-| 25 | 24/jun | Simulado 3 |
-| 26 | 29/jun | Correção do Simulado 3 |
+| 22 | 15/jun | Álgebra de Proposições, Método Dedutivo e Regras de Inferência |
+| 23 | 17/jun | Equivalência Logica, Implicação Logica, Argumentos, Regras de Inferência e Demostrações |
+| 24 | 22/jun | Simulado 3 |
+| 25 | 24/jun | Correção do Simulado 3 e Resolução de Exercícios |
+| 26 | 29/jun | Lista de Exercícios |
 | 27 | 1/jul | Prova 3 |
 | 28 | 6/jul | Prova Substitutiva |
-| 29 | 8/jul | Último dia de aulas |
+| 29 | 8/jul | Revisão Prova 3 e Substitutiva |
+| 30 | 11/jul | Entrega de Notas |
