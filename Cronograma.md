@@ -26,7 +26,7 @@
 | 23 | 17/jun | Equivalência Logica, Implicação Logica, Argumentos, Regras de Inferência e Demostrações |
 | 24 | 22/jun | Simulado 3 |
 | 25 | 24/jun | Correção do Simulado 3 e Resolução de Exercícios |
-| 26 | 29/jun | Lista de Exercícios |
+| 26 | 29/jun | Lista de Exercícios e Revisão P2 |
 | 27 | 1/jul | Prova 3 |
 | 28 | 6/jul | Prova Substitutiva |
 | 29 | 8/jul | Revisão Prova 3 e Substitutiva |
