@@ -1,33 +1,36 @@
 | Aulas | Data  | Programa |
 |------|-------|----------|
-| 1 | 30/mar | Primeiro dia de aulas, Plano de Ensino, Introdução |
-| 2 | 1/abr | Somatórios e Números Binomiais |
-| 3 | 6/abr | Introdução à Teoria de Conjuntos e Indução Matemática |
-| 4 | 8/abr | Teoria de Conjuntos e suas Operações, Cardinalidade de Conjuntos e Teorema da Casa dos Pombos |
-| 5 | 13/abr | Sequências, Progressões e Relações de Recorrência |
-| 6 | 15/abr | Recorrência Linear Homogênea e Não Homogênea |
-|  | 20/abr | Ponto facultativo (Tiradentes) |
-| 7 | 22/abr | Simulado 1 |
-| 8 | 27/abr | Correção do Simulado 1 |
-| 9 | 29/abr | Prova 1 |
-| 10 | 4/mai | Não houve aula |
-| 11 | 6/mai | Correção da Prova 1 |
-| 12 | 11/mai | Princípios Aditivo e Multiplicativo, Arranjos, Permutações e Combinações |
-| 13 | 13/mai | Princípios de Subtração e Divisão, Permutações com Repetição e Circular, Contado com Pelo Menos e No máximo |
-| 14 | 18/mai | Equações Lineares, Combinação com Repetição e Funções Geradoras |
-| 15 | 20/mai | Simulado 2 |
-| 16 | 25/mai | Correção do Simulado 2 |
-| 17 | 27/mai | Prova 2 |
-| 18 | 1/jun | Correção da Prova 2 |
-| 19 | 3/jun | Proposições e Conectivos; Operações Lógicas sobre Proposições |
-| 20 | 8/jun | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
-| 21 | 10/jun | Implicação Lógica e Equivalência Lógica |
-| 22 | 15/jun | Álgebra de Proposições, Método Dedutivo e Regras de Inferência |
-| 23 | 17/jun | Equivalência Logica, Implicação Logica, Argumentos, Regras de Inferência e Demostrações |
-| 24 | 22/jun | Simulado 3 |
-| 25 | 24/jun | Correção do Simulado 3 e Resolução de Exercícios |
-| 26 | 29/jun | Lista de Exercícios e Revisão P2 |
-| 27 | 1/jul | Prova 3 |
-| 28 | 6/jul | Prova Substitutiva |
-| 29 | 8/jul | Revisão Prova 3 e Substitutiva |
-| 30 | 11/jul | Entrega de Notas |
+| 1 | 10/ago | Primeiro dia de aulas, Plano de Ensino, Introdução |
+| 2 | 12/ago | Somatórios e Números Binomiais |
+| 3 | 17/ago | Introdução à Teoria de Conjuntos e Indução Matemática |
+| 4 | 19/ago | Teoria de Conjuntos e suas Operações, Cardinalidade de Conjuntos e Teorema da Casa dos Pombos |
+| 5 | 24/ago | Sequências, Progressões e Relações de Recorrência |
+| 6 | 26/ago | Recorrência Linear Homogênea e Não Homogênea |
+| 7 | 31/ago | Simulado 1 |
+| 8 | 2/set | Correção do Simulado 1 |
+|   | 7/set | Independência do Brasil (Feriado) |
+| 9 | 9/set | Prova 1 |
+| 10 | 14/set | Correção Prova 1 |
+| 11 | 16/set | Princípios Aditivo e Multiplicativo, Arranjos, Permutações e Combinações |
+| 12 | 21/set | Permutações com Repetições e Circulares e Resolução de Exercícios |
+| 13 | 23/set | Equações Lineares e Funções Geradoras |
+| 14 | 28/set | Simulado 2 |
+| 15 | 30/set | Correção do Simulado 2 |
+| 16 | 5/out | Prova 2 |
+| 17 | 7/out | Correção Prova 2 |
+|   | 12/out | Nossa Senhora Aparecida (Feriado) |
+| 18 | 14/out | Proposições e Conectivos; Operações Lógicas sobre Proposições |
+| 19 | 19/out | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
+| 20 | 21/out | Implicação Lógica - Equivalência Lógica - Demonstrações |
+| 21 | 26/out | Álgebra das Proposições |
+|   | 28/out | Ponto Facultativo (Dia do Servidor) |
+| 22 | 4/nov | Argumentos e Regras de Inferência; Método Dedutivo |
+| 23 | 9/nov | Demonstração Condicional e por Redução ao Absurdo |
+| 24 | 11/nov | Sentenças Abertas e Quantificadores |
+| 25 | 16/nov | Simulado 3 |
+| 26 | 18/nov | Correção Simulado 3 |
+| 27 | 23/nov | Prova 3 |
+| 28 | 25/nov | Correção Prova 3 |
+| 29 | 30/nov | Prova Substitutiva |
+| 30 | 2/dez | Revisão Final de Notas |
+| 31 | 7/dez | Último dia de aulas |
