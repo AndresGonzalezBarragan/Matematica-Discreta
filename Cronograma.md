@@ -21,17 +21,17 @@
 |   | 12/out | Nossa Senhora Aparecida (Feriado) |
 | 18 | 14/out | Proposições e Conectivos; Operações Lógicas sobre Proposições |
 | 19 | 19/out | Construção de Tabelas Verdade; Tautologias, Contradições e Contingências |
-| 20 | 21/out | Implicação Lógica - Equivalência Lógica - Demonstrações |
-| 21 | 26/out | Álgebra das Proposições |
-| 22 | 28/out | Ponto Facultativo (Dia do Servidor) |
-|   | 2/nov | Finados (Feriado) |
-| 23 | 4/nov | Argumentos e Regras de Inferência; Método Dedutivo |
-| 24 | 9/nov | Demonstração Condicional e por Redução ao Absurdo |
-| 25 | 11/nov | Sentenças Abertas e Quantificadores |
-| 26 | 16/nov | Simulado 3 |
-| 27 | 18/nov | Correção Simulado 3 |
-| 28 | 23/nov | Prova 3 |
-| 29 | 25/nov | Correção Prova 3 |
-| 30 | 30/nov | Prova Substitutiva |
-| 31 | 2/dez | Revisão Final de Notas |
-| 32 | 7/dez | Último dia de aulas |
+|    | 21/out | Não Houve Aula |
+| 20 | 26/out | Implicação Lógica - Equivalência Lógica - Demonstrações |
+|    | 28/out | Ponto Facultativo (Dia do Servidor) |
+|    | 2/nov | Finados (Feriado) |
+| 21 | 4/nov  | Álgebra das Proposições |
+| 22 | 9/nov | Argumentos e Regras de Inferência; Método Dedutivo |
+| 23 | 11/nov | Demonstração Condicional e por Redução ao Absurdo |
+| 24 | 16/nov | Sentenças Abertas e Quantificadores |
+| 25 | 18/nov | Simulado 3 |
+| 26 | 23/nov | Correção Simulado 3 |
+| 27 | 25/nov | Prova 3 |
+| 28 | 30/nov | Prova Substitutiva |
+| 29 | 2/dez | Revisão Final de Notas |
+| 30 | 7/dez | Último dia de aulas |
